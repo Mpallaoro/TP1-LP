@@ -1,5 +1,4 @@
-#TP1-LP
-#Adicionar coisas nessa merda:
+Adicionar coisas nessa merda:
 
 git init
 
